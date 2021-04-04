@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCs7BdRkJ6eEwC40zE-8Bv_XTwfF4nNpss');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('SITE_NAME', 'yinsz');
+define('TITLENAME', 'yinsz');
+define('EN2DEKEY', 'yinsz666yinsz666');
+define('EMAIL', 'yinshaoze666@gmail.com');
+define('NAME', 'nameyinshaoze');
+define('PASSWORD', 'passyinshaoze');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
